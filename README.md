@@ -5,6 +5,7 @@ Seja bem vindo! Neste primeiro desafio do Treinamento "The Odin Project", criei 
 Para a elaboração do projeto, utilizei:
 
 - **HTML**
+- **CSS**
 
 Fique à vontade para conferir o resultado neste repositório e para entrar em contato.
 
